@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "deep-cleaner": "^1.1.2",
+    "nodemon": "^1.18.3",
     "uniqid": "^5.0.3"
   },
   "dependencies": {}
