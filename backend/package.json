@@ -1,0 +1,17 @@
+{
+  "name": "backend_proyectofinal_pls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "deep-cleaner": "^1.1.2",
+    "uniqid": "^5.0.3"
+  },
+  "dependencies": {}
+}
